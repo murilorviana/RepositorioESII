@@ -63,4 +63,3 @@ Depois é aberto um **Pull Request** para `dev`.
 ## 📷 Evidências de Entrega
 
 - https://github.com/murilorviana/RepositorioES2
-- Print do histórico de commits na branch `dev`
