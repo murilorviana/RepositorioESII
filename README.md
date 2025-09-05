@@ -6,13 +6,13 @@ Este repositório contém o projeto base fornecido pelo professor, desenvolvido 
 
 De acordo com o arquivo `requisitos.MD`, o sistema deve implementar as seguintes funcionalidades:
 
-- [x] Criar um objeto a partir da classe **Veículo**
-- [x] Criar veículo
-- [ ] Imprimir o veículo
-- [ ] Acelerar
-- [ ] Frear
-- [ ] Subir marcha
-- [ ] Reduzir marcha
+-  Criar um objeto a partir da classe **Veículo**
+-  Criar veículo
+-  Imprimir o veículo
+-  Acelerar
+-  Frear
+-  Subir marcha
+-  Reduzir marcha
 
 ---
 
